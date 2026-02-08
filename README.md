@@ -1,16 +1,20 @@
-## Hi there 👋
+# Shiny Madona Arockiasamy
 
-<!--
-**ShinyMadona/shinymadona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Scientist with hands-on experience in data analytics, machine learning, and deep learning. Strong quantitative foundation with proven aptitude in statistical analysis, analytical reasoning, and end-to-end model development using real-world datasets.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming & Data**: Python, SQL, Pandas, NumPy
+- **Machine Learning**: Regression, Classification, XGBoost, Model Evaluation
+- **Deep Learning**: CNN, Keras, TensorFlow
+- **Analytics**: Statistics, EDA
+- **Visualization**: Power BI, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Category | Project | Tech Stack |
+|--------|--------|-----------|
+| Deep Learning | [Pneumonia Detection from Chest X-Rays](link) | CNN, Keras |
+| Machine Learning | [Customer Churn Prediction](link) | XGBoost, Python |
+| Analytics | [Inventory Management System](link) | SQL |
+
+
+## Open to Junior Data Scientist / Junior Machine Learning Engineer roles | India | Remote, Hybrid
