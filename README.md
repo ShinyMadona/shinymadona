@@ -1,6 +1,11 @@
 # Shiny Madona Arockiasamy
 
-Junior Data Scientist with hands-on experience in data analytics, machine learning, and deep learning. Strong quantitative foundation with proven aptitude in statistical analysis, analytical reasoning, and end-to-end model development using real-world datasets.
+Data Scientist with 6+ years enterprise experience at Cognizant. 
+IBM Certified in Python, ML & Deep Learning. Built 9 end-to-end 
+ML projects — 3 live deployed:
+🏦 https://bankchurnml-plbplrsg2zhasqetwze8de.streamlit.app
+🔬 https://shinymadona-breast-cancer-ml-cv-breast-cancer-app-3zbwfg.streamlit.app
+🫁 https://shinymadona-pneumonia-detection.hf.space
 
 ## Skills
 - **Programming & Databases: Python (Pandas, NumPy, Scikit-learn), SQL
@@ -14,9 +19,10 @@ Junior Data Scientist with hands-on experience in data analytics, machine learni
 ## Projects
 | Category | Project | Tech Stack |
 |--------|--------|-----------|
-| Deep Learning | [Pneumonia Detection from Chest X-Rays](link) | CNN, Keras |
-| Machine Learning | [Customer Churn Prediction](link) | XGBoost, Python |
-| Analytics | [Inventory Management System](link) | SQL |
+| Deep Learning | Pneumonia Detection from Chest X-Rays | CNN, Keras |
+| Machine Learning | Customer Churn Prediction | XGBoost, Python |
+| Analytics | Inventory Management System | SQL |
+| Deep Learning | Pneumonia Detection CNN |TensorFlow, Keras
 
 
-## Open to Junior Data Scientist / Junior Machine Learning Engineer roles | India | Remote, Hybrid
+## Open to Data Scientist / ML Engineer / AI Engineer roles | India | Remote
