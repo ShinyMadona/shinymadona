@@ -4,7 +4,9 @@ Data Scientist with 6+ years enterprise experience at Cognizant.
 IBM Certified in Python, ML & Deep Learning. Built 9 end-to-end 
 ML projects — 3 live deployed:
 🏦 https://bankchurnml-plbplrsg2zhasqetwze8de.streamlit.app
+
 🔬 https://shinymadona-breast-cancer-ml-cv-breast-cancer-app-3zbwfg.streamlit.app
+
 🫁 https://shinymadona-pneumonia-detection.hf.space
 
 ## Skills
